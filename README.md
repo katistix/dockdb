@@ -1,5 +1,7 @@
 ## DockDB by Katistix
 
+Easy PostgreSQL database provisioning.
+
 ### Running the scripts
 
 #### Create a new postgresql database container
