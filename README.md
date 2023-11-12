@@ -1,8 +1,6 @@
-## DockDB by Katistix
+![Easy PostgreSQL database provisioning.](assets/dockdb_banner.png)
 
-Easy PostgreSQL database provisioning.
-
-### Running the scripts
+### How to run the scripts?
 
 #### Create a new postgresql database container
 
